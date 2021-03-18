@@ -21,7 +21,7 @@ The code in the project can be executed using Anaconda distribution of Python ve
 
 ## Project motivation
 
-Factors impacting listing pricing based on amenities is explored. 
+Explore Starbucks data and create a model to predict member action on getting an offer. 
 
 ## Data Source
 

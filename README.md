@@ -13,7 +13,7 @@ Capstone challenge Udacity Data Science
 
 ## Medium Blog 
 
-
+https://data-clash.medium.com/starbucks-capstone-challenge-5aecf64763e9 
 
 ## Installation
 

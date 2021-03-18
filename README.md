@@ -1,4 +1,4 @@
-# Starbuck-Capstone-Challenge
+# Starbucks-Capstone-Challenge
 Capstone challenge Udacity Data Science
 
 ## Table of contents

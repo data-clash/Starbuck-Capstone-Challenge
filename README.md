@@ -17,7 +17,15 @@ https://data-clash.medium.com/starbucks-capstone-challenge-5aecf64763e9
 
 ## Installation
 
-The code in the project can be executed using Anaconda distribution of Python ver 3.x and does not require any additional scripts.
+The code in the project can be executed using Anaconda distribution of Python ver 3.x and the following libraries:
+1. pandas
+2. numpy
+3. matplotlib
+4. sklearn
+5. datetime
+6. time
+7. math
+
 
 ## Project motivation
 

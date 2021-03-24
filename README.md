@@ -25,6 +25,9 @@ The code in the project can be executed using Anaconda distribution of Python ve
 5. datetime
 6. time
 7. math
+8. lightgbm
+9. cmake
+10. xgboost
 
 
 ## Project motivation

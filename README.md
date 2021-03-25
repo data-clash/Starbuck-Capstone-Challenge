@@ -79,6 +79,10 @@ The basic task is to use the data to identify which groups of people are most re
 <br>4. data (transcript.json | profile.json | portfolio.json)
 <br>5. pic1.png and pic2.png for the notebook instructions
 
+## Results
+By using the LightGBM model I was able to classify most important features affecting offer completion and offer viewing. I can also use the model to predict customer action. The F1-score on offer viewed was higher than offer completed which shows that the model would be able to predict offer view better than offer completed. However, the overall avg F1-score was 0.7 which was acceptable.
+
+
 ## Author
 
 Anuja Jadhav
